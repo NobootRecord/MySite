@@ -1,3 +1,2 @@
 # MySite
-This is my own website coded on JavaScript.
-Мой собственный сайт, написанный с нуля на JavaScript.
+This is my own website coded on HTML from scratch
